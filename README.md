@@ -4,4 +4,4 @@ An extensive data downloaded from kaggle.
 
 Data is cleaned and made easy to visualize.
 
-Attempt at finding Correlation for Movies data and plotting the results.
+Attempt at finding Correlation for the data and plotting the results.
